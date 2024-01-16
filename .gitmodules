@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "goldfish"]
+	path = goldfish
+	url = https://github.com/stocnet/goldfish
+[submodule "manynet"]
+	path = manynet
+	url = https://github.com/stocnet/manynet
+[submodule "migraph"]
+	path = migraph
+	url = https://github.com/stocnet/migraph
