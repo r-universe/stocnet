@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ERPM"]
+	path = ERPM
+	url = https://github.com/stocnet/erpm
 [submodule "RSiena"]
 	path = RSiena
 	url = https://github.com/stocnet/rsiena
