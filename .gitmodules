@@ -8,6 +8,9 @@
 [submodule "RSiena"]
 	path = RSiena
 	url = https://github.com/stocnet/rsiena
+[submodule "autograph"]
+	path = autograph
+	url = https://github.com/stocnet/autograph
 [submodule "goldfish"]
 	path = goldfish
 	url = https://github.com/stocnet/goldfish
