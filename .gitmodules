@@ -20,3 +20,6 @@
 [submodule "migraph"]
 	path = migraph
 	url = https://github.com/stocnet/migraph
+[submodule "netrics"]
+	path = netrics
+	url = https://github.com/stocnet/netrics
