@@ -5,6 +5,9 @@
 [submodule "ERPM"]
 	path = ERPM
 	url = https://github.com/stocnet/erpm
+[submodule "MoNAn"]
+	path = MoNAn
+	url = https://github.com/stocnet/monan
 [submodule "RSiena"]
 	path = RSiena
 	url = https://github.com/stocnet/rsiena
